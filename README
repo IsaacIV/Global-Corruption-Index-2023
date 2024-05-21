@@ -1,6 +1,6 @@
 # Global Corruption Index 2023
 
-Welcome to my project on the Global Corruption Index 2023. I am not an expert; this is an exploration of a dataset I found on Kaggle titled "Global Corruption Index 2023:Insights and Rankings". you can find the dataset [here](https://www.kaggle.com/datasets/agungpambudi/global-corruption-index-transparency-perceptions).
+Welcome to my project on the Global Corruption Index 2023. I am not an expert; this is an exploration of a dataset I found on Kaggle titled "Global Corruption Index 2023:Insights and Rankings". You can find the dataset [here](https://www.kaggle.com/datasets/agungpambudi/global-corruption-index-transparency-perceptions).
 
 ## Project Overview
 
@@ -12,4 +12,4 @@ In this project, I focus on the following areas:
 
 - **Global Rankings:** I examined the global rankings of these 32 countries and their performance trends from 2012 to 2023.
 
-This analysis aims to deepen the understanding of corruption trends in the specified regions and contribute to the ongoing discussion on transparency and governance.
+This analysis aims to deepen the understanding of corruption trends in the specified regions and to give a better look at which countries in these regions are safe to do business in.
