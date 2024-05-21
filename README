@@ -1,1 +1,15 @@
-I am no expert. I did these analysis for Data Science practice.
+# Global Corruption Index 2023
+
+Welcome to my project on the Global Corruption Index 2023. I am not an expert; this is an exploration of a dataset I found on Kaggle titled "Global Corruption Index 2023:Insights and Rankings". you can find the dataset [here](https://www.kaggle.com/datasets/agungpambudi/global-corruption-index-transparency-perceptions).
+
+## Project Overview
+
+In this project, I focus on the following areas:
+
+- **Regional Analysis:** I explored the Corruption Perception Index (CPI) 2023 for the Americas (North, Central, South) and the Carribean. The analysis covers a total of 32 countries.
+
+- **Historical Trends:** The dataset included CPI scores from 2012 to 2023, allowing for a longitudinal study of corruption perceptions over time.
+
+- **Global Rankings:** I examined the global rankings of these 32 countries and their performance trends from 2012 to 2023.
+
+This analysis aims to deepen the understanding of corruption trends in the specified regions and contribute to the ongoing discussion on transparency and governance.
